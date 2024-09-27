@@ -18,7 +18,7 @@ Before running the project, ensure you have the following installed:
 - Python 3.10+
 - Required libraries and dependencies (listed in requirements.txt)
 
-##Installation
+## Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/javaidiqbal11/Facial_Recognition_Emotions.git
