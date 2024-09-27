@@ -1,2 +1,2 @@
-----------------------Facial Recognition Command-----------
+# Terminal Command to create the web Installer (exe) 
 python -m PyInstaller face_app.py --clean --noconfirm --icon=icon.ico --add-data "D:\DoctorAI\Facial_Recognition\Facial_Recognition_Emotions\data;data/"
