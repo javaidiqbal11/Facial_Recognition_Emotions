@@ -21,7 +21,7 @@ Before running the project, ensure you have the following installed:
 ##Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Facial_Recognition_Emotions.git
+git clone https://github.com/javaidiqbal11/Facial_Recognition_Emotions.git
 ```
 
 2. Navigate to the project directory:
@@ -34,29 +34,13 @@ cd Facial_Recognition_Emotions
 pip install -r requirements.txt
 ```
 
+## Running the Project
+To start the face recognition and emotion detection API:
 
+- Ensure you have a webcam or image feed for face detection.
 
+- Run the main script:
 
-
-
-
-
-
-
-
-
-
-
-### Python 3.9
-
-
-Install packages
-```shell
-pip install -r requirements.txt
-```
-
-
-Run the File 
-```shell
+```bash
 python main_app.py
 ```
