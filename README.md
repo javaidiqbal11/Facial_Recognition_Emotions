@@ -11,8 +11,28 @@ This repository was developed to enable facial recognition and emotion detection
 `Deep Learning:` Utilizes deep learning frameworks such as TensorFlow or PyTorch for training and deploying facial recognition models. <br>
 `Python 3.10:` The project is developed using Python 3.10, making use of the latest features and improvements of the Python programming language.
 
+## Getting Started
+**Prerequisites**
+Before running the project, ensure you have the following installed:
 
+- Python 3.10+
+- Required libraries and dependencies (listed in requirements.txt)
 
+##Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Facial_Recognition_Emotions.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd Facial_Recognition_Emotions
+```
+
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 
 
