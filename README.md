@@ -7,6 +7,10 @@ This repository was developed to enable facial recognition and emotion detection
 - Emotion Recognition: Recognizes and classifies basic human emotions (such as happy, sad, angry, etc.) using deep learning models, providing insights into user sentiment or state. <br>
 - Security-focused: Designed with security in mind, ensuring facial data is handled responsibly and accurately to meet security standards. <br>
  
+## Technologies Used
+`Deep Learning:` Utilizes deep learning frameworks such as TensorFlow or PyTorch for training and deploying facial recognition models. <br>
+`Python 3.10:` The project is developed using Python 3.10, making use of the latest features and improvements of the Python programming language.
+
 
 
 
