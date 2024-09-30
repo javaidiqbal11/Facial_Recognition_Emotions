@@ -1,3 +1,4 @@
+# code file to set the training classifier 
 import cv2
 import os
 import numpy as np
